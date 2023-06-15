@@ -4,7 +4,7 @@ Final Project Pengembangan Data Warehouse dan Dashboard AdventureWorks-dw
 Dibuat oleh Paralel D - Kelompok 7  
 Program Studi Sistem Informasi - Fakultas Ilmu Komputer - UPN "Veteran" Jawa Timur  
 Nama Anggota:  
-> Novita Maulana Arochma        (18082010007)  
+> Novita Maulana Arochma        (20082010052)  
 > Queen Anjar Dea Nigata        (20082010133)  
 > Nur Halizah                   (21082010128)  
 > Robby Alamsyah Satriya Putra  (21082010166)
